@@ -1,0 +1,3 @@
+test: test-mymath.c
+	gcc -o test test-mymath.c
+
